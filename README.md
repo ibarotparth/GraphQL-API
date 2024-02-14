@@ -12,3 +12,8 @@ Add a new book or author to the collection
 Express.js for building the server
 GraphQL for efficient data querying
 Node.js for server-side JavaScript runtime
+
+
+
+https://github.com/ibarotparth/GraphQL-API/assets/130244137/1d6214a4-4780-41e3-8466-52b039fe0898
+
